@@ -23,3 +23,27 @@ Move your player left and right to avoid falling ducks, earn points by surviving
 4. Press **R** to restart after a game over.
 
 Made as a hands-on project to learn game development with Pygame. 🐤
+
+**Dodge the Ducks** is a fun, beginner-friendly 2D arcade game built with Python and Pygame.
+
+Move your player left and right to avoid falling ducks, earn points by surviving, and challenge yourself as the ducks get faster over time. One collision ends the game, so stay alert and see how high you can score!
+
+### Features
+- Simple keyboard controls
+- Falling ducks with randomized positions
+- Score tracking
+- Increasing difficulty
+- Collision detection and game-over screen
+- Quick restart to try again
+
+### Built With
+- Python
+- Pygame
+
+### How to Play
+1. Run `python dodge.py`.
+2. Use the **Left** and **Right Arrow Keys** or **A** and **D** to move.
+3. Avoid the falling ducks and survive as long as possible.
+4. Press **R** to restart after a game over.
+
+Made as a hands-on project to learn game development with Pygame. 🐤
